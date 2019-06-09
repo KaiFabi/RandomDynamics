@@ -6,6 +6,6 @@ The rule how these agents behave is really simple. Every agent just adapts the b
 
 Here are some results for different distances:
 
-![](https://github.com/KaiFabi/RandomDynamics/blob/master/ouput_dist_0p14)
-![](https://github.com/KaiFabi/RandomDynamics/blob/master/ouput_dist_0p07)
-![](https://github.com/KaiFabi/RandomDynamics/blob/master/ouput_dist_0p03)
+![](https://github.com/KaiFabi/RandomDynamics/blob/master/ouput_dist_0p14.gif)
+![](https://github.com/KaiFabi/RandomDynamics/blob/master/ouput_dist_0p07.gif)
+![](https://github.com/KaiFabi/RandomDynamics/blob/master/ouput_dist_0p03.gif)
