@@ -7,7 +7,7 @@ The rule how these agents behave is really simple. Every agent just adapts the b
 Starting with a random initial state of agents that looks like the following figure
 
 <div align="center">
-<img src="https://github.com/KaiFabi/RandomDynamics/blob/master/init.png" height="320">
+<img src="https://github.com/KaiFabi/RandomDynamics/blob/master/init.png" height="500">
 </div>
 
 interesting patterns like vortices emerge.
