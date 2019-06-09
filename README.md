@@ -14,8 +14,8 @@ interesting patterns like vortices emerge.
 
 Here are some results for `DIST=0.03`, `DIST=0.07` and `DIST=0.14` (from left to right).
 
-<div align="center">
+<p align="center">
 ![](https://github.com/KaiFabi/RandomDynamics/blob/master/output_dist_0p14.gif)
 ![](https://github.com/KaiFabi/RandomDynamics/blob/master/output_dist_0p07.gif)
 ![](https://github.com/KaiFabi/RandomDynamics/blob/master/output_dist_0p03.gif)
-</div>
+</p>
