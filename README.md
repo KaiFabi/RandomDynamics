@@ -1,8 +1,8 @@
 # RandomDynamics
 
-A toy projects that shows how simple rules can lead to interesting results and complex behaviour. The idea is inspired by cellular automata. In contrast to cellular automata, this approach does not use a grid. In order to calculate the interaction of individual agents more efficiently, a tree algorithm was used.
+This toy project shows how simple rules can lead to interesting results and complex behaviour. The idea is inspired by cellular automata. In contrast to cellular automata, this approach does not use a grid. In order to calculate the interaction of individual agents more efficiently, a tree algorithm was used.
 
-The rule how these agents behave is really simple. Every agent just adapts the behaviour (direction of movement) from other agents that are within a distance `DIST`.
+The rule that determines how these agents behave is quite simple. Each agent adapts his movement to that of the surrounding agents within distance `DIST`.
 
 Starting with a random initial state of agents that looks like the following figure
 
@@ -19,3 +19,9 @@ Here are some results for `DIST=0.03`, `DIST=0.07` and `DIST=0.14` (from left to
 <img src="https://github.com/KaiFabi/RandomDynamics/blob/master/output_dist_0p07.gif" height="300">
 <img src="https://github.com/KaiFabi/RandomDynamics/blob/master/output_dist_0p03.gif" height="300">
 </p>
+
+Compile and run the program using
+
+`gcc -O -Wall automata.c -o automata -lm`
+and 
+`./automata`
