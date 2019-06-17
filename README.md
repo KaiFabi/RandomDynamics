@@ -15,9 +15,9 @@ interesting patterns like vortices emerge.
 Here are some results for `DIST=0.03`, `DIST=0.07` and `DIST=0.14` (from left to right).
 
 <p align="center">
-<img src="https://github.com/KaiFabi/RandomDynamics/blob/master/output_dist_0p14.gif" height="300">
-<img src="https://github.com/KaiFabi/RandomDynamics/blob/master/output_dist_0p07.gif" height="300">
-<img src="https://github.com/KaiFabi/RandomDynamics/blob/master/output_dist_0p03.gif" height="300">
+<img src="https://github.com/KaiFabi/RandomDynamics/blob/master/output_dist_0p14.gif" height="500">
+<img src="https://github.com/KaiFabi/RandomDynamics/blob/master/output_dist_0p07.gif" height="500">
+<img src="https://github.com/KaiFabi/RandomDynamics/blob/master/output_dist_0p03.gif" height="500">
 </p>
 
 Compile and run the program using
@@ -25,7 +25,3 @@ Compile and run the program using
 `gcc -O -Wall automata.c -o automata -lm`
 and 
 `./automata`
-
-```math
-SE = \frac{\sigma}{\sqrt{n}}
-```
