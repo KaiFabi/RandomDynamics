@@ -25,3 +25,5 @@ Compile and run the program using
 `gcc -O -Wall automata.c -o automata -lm`
 and 
 `./automata`
+
+$`\sqrt{2}`$
