@@ -26,4 +26,6 @@ Compile and run the program using
 and 
 `./automata`
 
-$`\sqrt{2}`$
+```math
+SE = \frac{\sigma}{\sqrt{n}}
+```
