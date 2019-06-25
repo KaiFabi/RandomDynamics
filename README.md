@@ -5,15 +5,15 @@ This toy project shows how simple rules can lead to interesting results and comp
 Starting with a random initial state of agents in a domain of size [-1,1] that can be considered as a vector field
 
 <div align="center">
-<img src="https://github.com/KaiFabi/RandomDynamics/blob/master/init.png" height="500">
+<img src="https://github.com/KaiFabi/RandomDynamics/blob/master/results/init.png" height="500">
 </div>
 
 interesting patterns like vortices emerge applying this simple rule. Here are some results for `DIST=0.14`, `DIST=0.07` and `DIST=0.03` (from top to bottom).
 
 <p align="center">
-<img src="https://github.com/KaiFabi/RandomDynamics/blob/master/output_dist_0p14.gif" height="500">
-<img src="https://github.com/KaiFabi/RandomDynamics/blob/master/output_dist_0p07.gif" height="500">
-<img src="https://github.com/KaiFabi/RandomDynamics/blob/master/output_dist_0p03.gif" height="500">
+<img src="https://github.com/KaiFabi/RandomDynamics/blob/master/results/output_dist_0p14.gif" height="500">
+<img src="https://github.com/KaiFabi/RandomDynamics/blob/master/results/output_dist_0p07.gif" height="500">
+<img src="https://github.com/KaiFabi/RandomDynamics/blob/master/results/output_dist_0p03.gif" height="500">
 </p>
 
 Compile and run the program using
